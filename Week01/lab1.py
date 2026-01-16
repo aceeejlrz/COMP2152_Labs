@@ -1,6 +1,9 @@
 # sample coding question 01 week 1
 # Jezrel Dela Cruz
 
+# Question 2: Defining an array (list)
+my_array = [1, 4, 7, 9]
+
 # Question 3: Order of Operations
 a = 1
 b = 2
