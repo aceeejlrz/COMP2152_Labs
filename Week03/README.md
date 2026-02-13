@@ -6,7 +6,7 @@ This README provides a comprehensive guide to the practical implementations and 
 
 ## 📋 Student Information
 * **Name:** Jezrel Dela Cruz
-* **Date:** Feb 06, 2026
+* **Date:** Jan 30, 2026
 * **Course:** COMP2152
 * **Status:** Junior Web Developer at George Brown College, Casa Loma Campus
 
